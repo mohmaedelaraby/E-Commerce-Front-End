@@ -1,0 +1,21 @@
+.Product_items_COntiner{
+    flex: 1;
+    margin: 5px;
+    min-width: 280px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.circl{
+
+}
+.product_img{
+    height: 75%
+
+}
+.product_info_container{
+
+}

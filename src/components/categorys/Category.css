@@ -1,0 +1,6 @@
+.catgory_continer{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    min-width: 845;
+}

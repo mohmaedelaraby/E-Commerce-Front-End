@@ -1,0 +1,38 @@
+.New_cont{
+    height: 60vh;
+    display: flex;
+    background-color: #fcf5f5;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.New_title{
+    font-size: 70px;
+    margin: 20px;
+}
+.New_DESC{
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.input_new_cont{
+    width: 50%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.in{
+    border: none;
+    outline: none;
+    font-size: 15px;
+    flex: 8;
+    padding-left: 20px;
+}
+.bu{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: teal;
+}

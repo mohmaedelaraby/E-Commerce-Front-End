@@ -1,0 +1,79 @@
+.ProductList_con{
+
+}
+.F_title{
+    margin: 20px;
+
+}
+.Filter_Contianer{
+    display: flex;
+    justify-content: space-between;
+
+}
+.filter{
+    margin: 20px;
+    display: flex;
+}
+.f_text{
+    font-weight: 600;
+    font-size: 20px;
+}
+.select{
+    width: 90px;
+    margin-left: 10px;
+    outline: none;
+    font-weight: 600
+}
+
+/************************************************** SingeProduct********************************************/
+
+.SP_wrapper{
+    display: flex;
+    padding: 50px;
+}
+
+.SP_img_con{
+    flex: 1;
+
+}
+.SP_info_continaer{
+    flex: 1;
+    padding: 0px 50px;
+}
+.SP_img{
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+}
+
+.SP_title{
+    font-weight: 200;
+}
+.SP_desc{
+    margin: 20px 0px;
+}
+.SP_Price{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.SP_Filter_Contianer{
+    width: 60%;
+    margin: 30px 0px; 
+    display: flex;
+    justify-content: space-between;
+}
+.SP_filter{
+    display: flex;
+}
+.SP_f_text{
+    font-weight: 300;
+    font-size: 20px;
+}
+.SP_select{
+    padding: 5px 5px;
+    width: 90px;
+    margin-left: 10px;
+    outline: none;
+    font-weight: 600
+}

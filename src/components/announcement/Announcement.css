@@ -1,0 +1,13 @@
+.ann-container{
+    width: 100%;
+    min-width:845px;
+    height: 30px;
+    color: white;
+    background-color: teal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 500;
+
+}
